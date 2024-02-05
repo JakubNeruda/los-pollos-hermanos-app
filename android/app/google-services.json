@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214608672810",
+    "project_id": "los-pollos-hermanos-4a508",
+    "storage_bucket": "los-pollos-hermanos-4a508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214608672810:android:68fc5f93095cb293cf6b53",
+        "android_client_info": {
+          "package_name": "cz.pv292.los_pollos_hermanos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSIOT_4TVeNTwm_1o_TByxek_3L97a-_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
