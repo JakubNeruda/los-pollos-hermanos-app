@@ -5,8 +5,8 @@
 Inspired by KFC and other fast food apps.
 Featuring Firebase integration (Database, Storage, Authentication)
 
-To try it yourself download an [android apk](https://github.com/JakubNeruda/fastfood_app/blob/master/build/app/outputs/apk/release/app-release.apk)
-or clone this repo and build it with ```flutter build ipa``` for Ios or ```flutter build apk``` for Android.
+## Usage
+Download and install [android apk](https://github.com/JakubNeruda/fastfood_app/blob/master/build/app/outputs/apk/release/app-release.apk)
 
 <p>
 <img src="https://raw.githubusercontent.com/JakubNeruda/los-pollos-hermanos-app/master/assets/Screenshot_main_page.jpg?raw=true" width="32%">
